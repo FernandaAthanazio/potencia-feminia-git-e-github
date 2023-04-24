@@ -15,3 +15,9 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 ### git commit -m "[o que vai comitar ou modificar]"
 **comita os arquivos no repositório**
+
+### git push
+**envia os arquivos para o GitHub**
+
+### git pull
+**adiciona os arquivos novos do repositório no GitHub para o repositório no computador.**
